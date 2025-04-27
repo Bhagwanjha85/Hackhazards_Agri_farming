@@ -26,7 +26,6 @@ Today, greenhouse farming is over major challenges in maintaining ideal conditio
 - Bhagwan Jha (Frontend/Content)  
 - Kawaljeet singh( Backend and APIs)  
 - Blkrishna shukla ( IOT sensors) 
-*  *
 
 ### Your Approach:  
 - Today, greenhouse farming is over major challenges in maintaining ideal conditions for crop development. Fluctuations in temperature, humidity, CO and level and soil moisture can directly affect plant health and reduce the yield. Manually handling these factors is often disabled, exposed to time -consuming and human errors, especially when continuous monitoring is needed.
