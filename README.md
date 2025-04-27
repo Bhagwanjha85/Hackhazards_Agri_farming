@@ -58,7 +58,8 @@ Another important moment was when we realized that incorporating remote access w
 - Frontend:Html5, css3, js, chat.js, Bootstrap, Groq
 - Backend: Monad, Node.js, Python
 - Database: MYSQL, Fluvio
-- APIs: FASTApis
+- APIs: Socket.IO
+- real-time data streaming platform: Fluvio
 
 ### Sponsor Technologies Used (if any):
 - [✅] **Groq:** _How you used Groq_  
@@ -74,8 +75,7 @@ Another important moment was when we realized that incorporating remote access w
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** [https://youtu.be/sSWzvWE5cKA?si=5DZc_CPPNkvxPs7R]  
 
 ---
 
