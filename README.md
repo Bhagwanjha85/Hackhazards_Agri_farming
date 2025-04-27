@@ -36,6 +36,7 @@ To solve this, I developed a smart greenhouse simulation that uses real -time se
 
 By automating monitoring and control, my project helps farmers maintain a healthy greenhouse environment, reduce manual workload, adapt resource use and finally achieve better crop productivity.
 
+- Challenges and its solution:
 - One of the most important challenges was to handle real -time sense data updates without backlog, especially when many units need to be checked at the same time. Originally, the system met a delay in reflecting data changes on the dashboard.
 
 To solve this, we included data using asynchronous operations and communication techniques in real time and adapted to the unit control logic. We corrected the update gaps to balance performance and accuracy, ensuring even and responsible monitoring.
@@ -45,7 +46,8 @@ Another obstacle was to ensure reliable control of several hardware components i
 
 - During the development process, we initially focused on building a simple dashboard with basic sensor data monitoring. However, after brainstorming, we realized the need for real-time device control to make the system more interactive and efficient. This led to a major pivot where we integrated automatic control of devices like fans, lights, and water pumps based on the sensor readings.
 
-One of the key breakthroughs came when we decided to use asynchronous operations for real-time data fetching and processing. This allowed the system to run smoothly without any lag, ensuring that data was updated and reflected instantly on the dashboard. We also experimented with data visualization techniques, using Chart.js, to better present the data, which made the dashboard not only functional but also visually appealing.
+- Breakthroughs 
+- One of the key breakthroughs came when we decided to use asynchronous operations for real-time data fetching and processing. This allowed the system to run smoothly without any lag, ensuring that data was updated and reflected instantly on the dashboard. We also experimented with data visualization techniques, using Chart.js, to better present the data, which made the dashboard not only functional but also visually appealing.
 
 Another important moment was when we realized that incorporating remote access would give farmers more flexibility. This idea quickly turned into a breakthrough feature, allowing greenhouse managers to control the environment from anywhere, significantly enhancing the project’s value. 
 
@@ -89,9 +91,9 @@ Another important moment was when we realized that incorporating remote access w
 ## 🧪 How to Run the Project
 
 ### Requirements:
-Download fluvio, monad, Grow API use
-download requirements.txt models , libraries
-Python file_name
+- Download fluvio, monad, Grow API use
+- download requirements.txt models , libraries
+- Python file_name
 
 
 ## 🏁 Final Words
